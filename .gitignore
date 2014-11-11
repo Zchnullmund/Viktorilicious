@@ -60,3 +60,10 @@ Temp
 *.csproj
 *.pidb
 *.sln
+
+*.bin
+*.db
+*.log
+*.cache
+*.meta
+*.dwlt
